@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.subject-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2rem;
+}
+
+.subject-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #555;
+}
